@@ -8,7 +8,14 @@ I'm Ali Tarakzai, a passionate Data Scientist and Machine Learning Engineer base
 
 ## Skills 🧠:
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=PYTHON&labelColor=black)
-, R, SQL, TensorFlow, PyTorch, Keras, AWS, and more! Let's turn data into insights.
+![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&labelColor=black)
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=Amazon%20EC2&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Git-F05032?logo=Git&labelColor=black)
+ and more! Let's turn data into insights.
 
 ## Currently 🛠️ :
 I'm currently working on automating job application using selenium
