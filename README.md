@@ -15,7 +15,9 @@ I'm Ali Tarakzai, a passionate Data Scientist and Machine Learning Engineer base
 ![Static Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=Amazon%20EC2&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=Git&labelColor=black)
- and more! Let's turn data into insights.
+![Static Badge](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=Docker&labelColor=black)
+Let's turn data into insights !!!
 
 ## Currently 🛠️ :
 I'm currently working on automating job application using selenium
