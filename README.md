@@ -25,4 +25,5 @@ I'm currently working on automating job application using selenium
 ## Excited about 🚀 :
 AI, Software Development, Data Analysis, Database Management, and everything ML-related!
 
-## When not coding , you'll find me outdoors, cycling 🚴, hiking , or engrossed in a good historical novel 📚. ⚽ Let's connect and share our love for tech and data!
+## When not coding 
+You will find me outdoors, cycling 🚴, hiking , or engrossed in a good historical novel 📚. ⚽ Let's connect and share our love for tech and data!
