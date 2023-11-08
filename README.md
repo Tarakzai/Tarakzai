@@ -17,6 +17,7 @@ I'm Ali Tarakzai, a passionate Data Scientist and Machine Learning Engineer base
 ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=Git&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=Docker&labelColor=black)
+
 Let's turn data into insights !!!
 
 ## Currently 🛠️ :
@@ -26,4 +27,5 @@ I'm currently working on automating job application using selenium
 AI, Software Development, Data Analysis, Database Management, and everything ML-related!
 
 ## When not coding 
-You will find me outdoors, cycling 🚴, hiking , or engrossed in a good historical novel 📚. ⚽ Let's connect and share our love for tech and data!
+You will find me outdoors, cycling 🚴, hiking , or engrossed in a good historical novel 📚. I am a big football fan ⚽.
+Let's connect and share our love for tech and data!
