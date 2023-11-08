@@ -7,7 +7,8 @@
 I'm Ali Tarakzai, a passionate Data Scientist and Machine Learning Engineer based in Hamburg, Germany. With a background in Electrical Engineering and a flair for innovation, I'm all about decoding data mysteries and crafting intelligent solutions.
 
 ## Skills 🧠:
-Python, R, SQL, TensorFlow, PyTorch, Keras, AWS, and more! Let's turn data into insights.
+![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=PYTHON&labelColor=black)
+, R, SQL, TensorFlow, PyTorch, Keras, AWS, and more! Let's turn data into insights.
 
 ## Currently 🛠️ :
 I'm currently working on automating job application using selenium
